@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "180135933645",
+    "project_id": "reddity-939ab",
+    "storage_bucket": "reddity-939ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180135933645:android:ce70a9cf796b20c0e4db84",
+        "android_client_info": {
+          "package_name": "com.xforces.reddity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180135933645-0tqt8vn650cmmnobk2ssh1j2nujkif7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xforces.reddity",
+            "certificate_hash": "471348130ccbc6c8daed0a96c24a2ca011cc02b1"
+          }
+        },
+        {
+          "client_id": "180135933645-225bnm1sub194viiggp42s33ghf8bsm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtta6c9MCRuM-gnivh3h9on8NhEKXW1mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180135933645-225bnm1sub194viiggp42s33ghf8bsm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
